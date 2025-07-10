@@ -6,6 +6,7 @@
 <!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiva1290&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://wakatime.com/badge/user/093170fd-42b0-4fb5-8fcf-a875c2eedb10.svg" alt="Total WakaTime Hours">
 </p>
 
 ## ℹ️ About Me
@@ -20,39 +21,35 @@
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-</p>
+### 🔤 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-</p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-</p>
+### 🛢️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+## 📂 Projects
 
+- ⚙️ [Life OS](https://life.shivagupta.top/): A personal productivity + task-tracking system built with full-stack principles (WIP)
+- 🌐 [Portfolio Website](https://shivagupta.top): Sleek, responsive personal portfolio built with React and deployed on Vercel
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva1290&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva1290&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
@@ -81,7 +78,7 @@ alt="WakaTime Stats">
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/shivagupta" target="_blank">
+  <a href="https://linkedin.com/in/shivaguptacse" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/shivaguptaa" target="_blank">
@@ -113,7 +110,7 @@ alt="WakaTime Stats">
   <i>"The magic you are looking for is in the work you are avoiding"</i>
 </div>
 
-## 🐍 Snake
+##
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/shiva1290/shiva1290/output/github-contribution-grid-snake.svg" />
