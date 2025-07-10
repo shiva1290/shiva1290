@@ -1,0 +1,128 @@
+<!-- Header with animated typing effect -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Gupta;Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shiva1290&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
+
+## ℹ️ About Me
+
+- 🔭 I'm currently working on personal projects and open-source contributions  
+- 🌱 Learning React, Node.js, MongoDB, and cloud deployment (Vercel, Render)  
+- 👯 Open to collaboration on web apps, backend systems, and dev tools  
+- 🤔 Exploring advanced system design, architecture, and scalability techniques  
+- 💬 Ask me about AI, DSA, and full-stack web development  
+- 📫 Reach me at: shivaguptacse@gmail.com  
+- ⚡ Fun fact: I love simplifying complex things and turning ideas into code
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+</p>
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva1290&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva1290&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva1290&theme=radical" alt="GitHub Streak Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva1290&theme=redical&area=true&hide_border=true" alt="GitHub Activity Graph">
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiva1290&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+</div>
+
+## ⏰ Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shiva1290&theme=radical&cache_seconds=60" 
+alt="WakaTime Stats">
+</div>
+
+
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/shivagupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/shivaguptaa" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://instagram.com/shivaguptaa_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:shivaguptacse@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://shivagupta.top" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+## 🎯 Current Goals
+
+- 🌐 Build & deploy 3 full-stack MERN apps from scratch
+- 🧱 Master clean code architecture & Git discipline in real-world projects
+- 🔐 Deep-dive into auth, routing, and REST APIs like a backend engineer
+- 🚀 Learn CI/CD, .env, and pro-level deployments via Vercel & Render
+
+
+
+##
+
+<div align="center">
+  <i>"The magic you are looking for is in the work you are avoiding"</i>
+</div>
+
+## 🐍 Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/shiva1290/shiva1290/output/dist/snake.svg" />
+</div>
+
+---
+
+<div align="center">
+  
+**⭐ From [shiva1290](https://github.com/shiva1290)**
+
+</div> 
