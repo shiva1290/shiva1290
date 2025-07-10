@@ -116,7 +116,7 @@ alt="WakaTime Stats">
 ## 🐍 Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/shiva1290/shiva1290/output/dist/snake.svg" />
+<img src="https://raw.githubusercontent.com/shiva1290/shiva1290/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
