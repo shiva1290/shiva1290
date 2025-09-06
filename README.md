@@ -6,7 +6,6 @@
 <!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiva1290&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-  <img src="https://wakatime.com/badge/user/093170fd-42b0-4fb5-8fcf-a875c2eedb10.svg" alt="Total WakaTime Hours">
 </p>
 
 ## ℹ️ About Me
@@ -66,15 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shiva1290&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
 </div>
 
-## ⏰ Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shiva1290&theme=radical&cache_seconds=60" 
-alt="WakaTime Stats">
-</div>
-
-
-
 ## 🔗 Connect
 
 <p align="center">
@@ -101,8 +91,6 @@ alt="WakaTime Stats">
 - 🧱 Master clean code architecture & Git discipline in real-world projects
 - 🔐 Deep-dive into auth, routing, and REST APIs like a backend engineer
 - 🚀 Learn CI/CD, .env, and pro-level deployments via Vercel & Render
-
-
 
 ##
 
