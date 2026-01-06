@@ -10,13 +10,13 @@
 
 ## ℹ️ About Me
 
-- 🔭 I'm currently working on personal projects and open-source contributions  
-- 🌱 Learning React, Node.js, MongoDB, and cloud deployment (Vercel, Render)  
-- 👯 Open to collaboration on web apps, backend systems, and dev tools  
-- 🤔 Exploring advanced system design, architecture, and scalability techniques  
-- 💬 Ask me about AI, DSA, and full-stack web development  
-- 📫 Reach me at: shivaguptacse@gmail.com  
-- ⚡ Fun fact: I love simplifying complex things and turning ideas into code
+-  I'm currently working on personal projects and open-source contributions  
+-  Learning React, Node.js, MongoDB, and cloud deployment (Vercel, Render)  
+-  Open to collaboration on web apps, backend systems, and dev tools  
+-  Exploring advanced system design, architecture, and scalability techniques  
+-  Ask me about AI, DSA, and full-stack web development  
+-  Reach me at: shivaguptacse@gmail.com  
+-  Fun fact: I love simplifying complex things and turning ideas into code
 
 ## 🛠️ Technologies & Tools
 
@@ -59,12 +59,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva1290&theme=redical&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiva1290&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
-</div>
-
 ## 🔗 Connect
 
 <p align="center">
@@ -84,15 +78,6 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </p>
-
-## 🎯 Current Goals
-
-- 🌐 Build & deploy 3 full-stack MERN apps from scratch
-- 🧱 Master clean code architecture & Git discipline in real-world projects
-- 🔐 Deep-dive into auth, routing, and REST APIs like a backend engineer
-- 🚀 Learn CI/CD, .env, and pro-level deployments via Vercel & Render
-
-##
 
 <div align="center">
   <i>"The magic you are looking for is in the work you are avoiding"</i>
