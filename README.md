@@ -1,90 +1,176 @@
-<!-- Header with animated typing effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shiva+Gupta;Welcome+to+my+GitHub!;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shiva1290&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
-
-## ℹ️ About Me
-
--  I'm currently working on personal projects and open-source contributions  
--  Learning React, Node.js, MongoDB, and cloud deployment (Vercel, Render)  
--  Open to collaboration on web apps, backend systems, and dev tools  
--  Exploring advanced system design, architecture, and scalability techniques  
--  Ask me about AI, DSA, and full-stack web development  
--  Reach me at: shivaguptacse@gmail.com  
--  Fun fact: I love simplifying complex things and turning ideas into code
-
-## 🛠️ Technologies & Tools
-
-### 🔤 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-
-### 🛢️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-## 📂 Projects
-
-- ⚙️ [Life OS](https://life.shivagupta.top/): A personal productivity + task-tracking system built with full-stack principles (WIP)
-- 🌐 [Portfolio Website](https://shivagupta.top): Sleek, responsive personal portfolio built with React and deployed on Vercel
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva1290&theme=redical&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div>
 
-## 🔗 Connect
+# 👋 Hi, I'm Shiva Gupta
 
-<p align="center">
-  <a href="https://linkedin.com/in/shivaguptacse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/shivaguptaa" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://instagram.com/shivaguptaa_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:shivaguptacse@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://shivagupta.top" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+### Computer Science Student | Full-Stack Developer | Problem Solver
 
-<div align="center">
-  <i>"The magic you are looking for is in the work you are avoiding"</i>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Solving+Complex+DSA+Problems;Creating+Full-Stack+Applications;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
-##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivaguptacse)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shivagupta.top)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivaguptacse@gmail.com)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/shiva1290/shiva1290/output/github-contribution-grid-snake.svg" />
+![Profile Views](https://komarev.com/ghpvc/?username=shiva1290&color=blueviolet&style=flat-square&label=Profile+Views)
+
+
 </div>
 
 ---
 
+## 🚀 About Me
+
+```javascript
+const shiva = {
+    education: "Computer Science @ Chandigarh University",
+    passion: ["Algorithm Design", "Full-Stack Development"],
+    seeking: ["Software Engineering Internships", "Entry-Level Opportunities"],
+    
+    whatDrivesMe: {
+        architecture: "clean & scalable",
+        algorithms: "efficient & optimal",
+        fundamentals: ["database optimization", "data structure performance", "system design"]
+    },
+    
+    currentlyFocusedOn: [
+        "Strengthening DSA foundations",
+        "Exploring system design patterns",
+        "Building production-ready applications"
+    ],
+    
+    mindset: "Understanding the 'why' behind the 'how'",
+    goal: "Contribute to meaningful projects while growing as a developer"
+};
+```
+
+---
+
+## 🛠️ Technical Arsenal
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Life OS
+Full-stack productivity system featuring structured REST APIs, efficient state management, and intuitive UI. Built with React and Node.js to demonstrate end-to-end development skills.
+
+**Tech:** React, Node.js, Express, MongoDB
+
+</td>
+<td width="50%">
+
+### 🤖 Customer Satisfaction MLOps
+End-to-end ML pipeline implementing data preprocessing, model training, and evaluation workflows. Focused on code quality and reproducible ML practices.
+
+**Tech:** Python, scikit-learn, pandas
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 Library Management System
+Database-centric application emphasizing schema design, normalization principles, and query optimization. Demonstrates strong understanding of relational database concepts.
+
+**Tech:** PostgreSQL, SQL, Database Design
+
+</td>
+<td width="50%">
+
+### 🌐 ApplyRec – Placement Application Tracker
+
+A web application designed to help students manage and track job applications efficiently during placement season. ApplyRec centralizes applications across companies and platforms, providing clear visibility into application status and progress.
+
+**Tech**
+Next.js, React, Tailwind CSS, Node.js, MongoDB
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiva1290&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&line_height=24&custom_title=GitHub%20Overview" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva1290&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=customer_satisfaction_mlops,library-management-dbms-project&custom_title=Primary%20Languages" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shiva1290&theme=github-dark&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiva1290&theme=github-compact&area=true&hide_border=true" />
+</div>
+
+---
+
+## 💻 Competitive Programming
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/sh1vagupta?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shiva1290/shiva1290/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+> *"The magic you are looking for is in the work you are avoiding"*
+
+I believe in consistent effort, deliberate practice, and building things that matter. Every line of code is an opportunity to learn something new.
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Open to collaborations, internship opportunities, and meaningful conversations about technology.
+
 **⭐ From [shiva1290](https://github.com/shiva1290)**
 
-</div> 
+</div>
+
