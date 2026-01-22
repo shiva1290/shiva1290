@@ -136,8 +136,6 @@ Next.js, React, Tailwind CSS, Node.js, MongoDB
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiva1290&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=customer_satisfaction_mlops,library-management-dbms-project&custom_title=Primary%20Languages" height="170" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shiva1290&theme=github-dark&hide_border=true" />
-
 </div>
 
 <div align="center">
