@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Shiva Gupta
 
 ### Computer Science Student | Full-Stack Developer | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Solving+Complex+DSA+Problems;Creating+Full-Stack+Applications;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Building+Full-Stack+Apps+with+React+%26+Spring+Boot;700%2B+DSA+Problems+Solved;Designing+Secure+RESTful+APIs;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivaguptacse)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shivagupta.top)
@@ -23,19 +22,19 @@
 ```javascript
 const shiva = {
     education: "Computer Science @ Chandigarh University",
-    passion: ["Algorithm Design", "Full-Stack Development"],
+    passion: ["Algorithm Design", "Full-Stack Development", "Backend Architecture"],
     seeking: ["Software Engineering Internships", "Entry-Level Opportunities"],
     
     whatDrivesMe: {
         architecture: "clean & scalable",
         algorithms: "efficient & optimal",
-        fundamentals: ["database optimization", "data structure performance", "system design"]
+        fundamentals: ["database design", "secure authentication", "system design"]
     },
     
     currentlyFocusedOn: [
-        "Strengthening DSA foundations",
-        "Exploring system design patterns",
-        "Building production-ready applications"
+        "Building production-grade apps with React & Spring Boot",
+        "Strengthening DSA foundations (700+ problems solved)",
+        "Exploring system design patterns"
     ],
     
     mindset: "Understanding the 'why' behind the 'how'",
@@ -55,12 +54,16 @@ const shiva = {
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="24"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="24"/>
 
 ### Backend & Databases
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24"/>
 
 </td>
@@ -74,8 +77,9 @@ const shiva = {
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="24"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="24"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="24"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" height="24"/>
 
 </td>
 </tr>
@@ -90,38 +94,22 @@ const shiva = {
 <tr>
 <td width="50%">
 
-### 🎯 Life OS
-Full-stack productivity system featuring structured REST APIs, efficient state management, and intuitive UI. Built with React and Node.js to demonstrate end-to-end development skills.
+### 🏫 ClassWise – University Management Dashboard
+A full-stack dashboard with React/Refine frontend and Spring Boot REST API to manage departments, subjects, classes, and faculty. Features role-based access control, session-based auth, rate limiting, and Spring Security.
 
-**Tech:** React, Node.js, Express, MongoDB
+**Tech:** React, Spring Boot, PostgreSQL, TypeScript, Java
 
-</td>
-<td width="50%">
-
-### 🤖 Customer Satisfaction MLOps
-End-to-end ML pipeline implementing data preprocessing, model training, and evaluation workflows. Focused on code quality and reproducible ML practices.
-
-**Tech:** Python, scikit-learn, pandas
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 Library Management System
-Database-centric application emphasizing schema design, normalization principles, and query optimization. Demonstrates strong understanding of relational database concepts.
-
-**Tech:** PostgreSQL, SQL, Database Design
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://classwise-frontend-tolx.vercel.app)
 
 </td>
 <td width="50%">
 
-### 🌐 ApplyRec – Placement Application Tracker
+### 🎯 ApplyRec – Job Application Tracker
+A full-stack job application tracker supporting multi-stage hiring workflows (Applied, OA, Interview, Offer, Rejected) with search, filtering, and analytics dashboard. Built with 10+ RESTful APIs, JWT auth, and bcrypt hashing.
 
-A web application designed to help students manage and track job applications efficiently during placement season. ApplyRec centralizes applications across companies and platforms, providing clear visibility into application status and progress.
+**Tech:** React, Java, Spring Boot, PostgreSQL, JWT
 
-**Tech**
-Next.js, React, Tailwind CSS, Node.js, MongoDB
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://applyrec-frontend.vercel.app)
 
 </td>
 </tr>
@@ -175,4 +163,3 @@ Open to collaborations, internship opportunities, and meaningful conversations a
 **⭐ From [shiva1290](https://github.com/shiva1290)**
 
 </div>
-
